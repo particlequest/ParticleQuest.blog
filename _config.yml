@@ -4,7 +4,7 @@
 
 url: http://OmeGak.github.com/ParticleQuest
 title: ParticleQuest Dev Blog
-subtitle: A blogging framework for hackers.
+subtitle: The ParticleQuest development blog
 author: ParticleQuest Team
 simple_search: http://google.com/search
 description:
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /ParticleQuest
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:title/
 source: source
 destination: public/ParticleQuest
 plugins: plugins
