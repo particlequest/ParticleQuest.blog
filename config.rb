@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/ParticleQuest/"
+http_images_path = "/ParticleQuest/images"
+http_fonts_path = "/ParticleQuest/fonts"
+css_dir = "public/ParticleQuest/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
